@@ -1,1 +1,1 @@
-Git de programacionmultimedia.net con fines colaborativos.
+Git programacionmultimedia.net con fines colaborativos. 
